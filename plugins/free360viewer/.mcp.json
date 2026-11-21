@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"free360viewer": {
+			"type": "http",
+			"url": "https://mcp.free360viewer.com/mcp"
+		}
+	}
+}
