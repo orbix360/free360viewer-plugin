@@ -9,7 +9,7 @@
 			"name": "free360viewer",
 			"source": "./plugins/free360viewer",
 			"description": "View 360° photos and panoramas in an interactive viewer right in the chat, and put a 360° photo on a web page with the free viewer script. No account needed.",
-			"version": "1.0.0"
+			"version": "1.0.1"
 		}
 	]
 }

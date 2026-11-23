@@ -30,7 +30,7 @@ Load the free360viewer script from its pinned address and mount it, exactly like
 
 ```html
 <div id="pano" style="width: 100%; height: 420px"></div>
-<script src="https://cdn.jsdelivr.net/npm/@orbix360/viewer@1.2.0/dist/viewer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@orbix360/viewer@1.2.1/dist/viewer.min.js"></script>
 <script>
 	Orbix360Viewer.mount(document.getElementById('pano'), {
 		src: 'https://example.com/your-360-photo.jpg',
