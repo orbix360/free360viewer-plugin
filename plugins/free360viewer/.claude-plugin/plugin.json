@@ -1,12 +1,13 @@
 {
 	"name": "free360viewer",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "View 360° photos and panoramas in an interactive viewer right in the chat, and put a 360° photo on a web page with the free viewer script. No account needed.",
 	"author": {
 		"name": "Orbix360",
 		"url": "https://free360viewer.com"
 	},
 	"homepage": "https://free360viewer.com",
+	"privacyPolicyUrl": "https://free360viewer.com/legal/ai-connector-privacy",
 	"repository": "https://github.com/orbix360/free360viewer-plugin",
 	"license": "MIT",
 	"keywords": [
